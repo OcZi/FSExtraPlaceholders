@@ -1,5 +1,4 @@
 # FSExtraPlaceholders
-FabledSkyblock extra placeholders.
 The purpose of this expansion is to execute a placeholder as a specific player.
 
 Originally created for the ex owner's Plebexer (AltoSurvival) in 2020.
